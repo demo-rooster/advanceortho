@@ -1,80 +1,73 @@
 {
   "enable_development_mode": false,
-  "company_name": "Tyska Alexander Orthodontics",
-  "domain": "taortho.com",
-  "email": "info@mandtortho.com",
+  "company_name": "Advance Orthodontics",
+  "domain": "advanceortho.com",
+  "email": "info@advanceortho.com",
   "phone": {
-    "number": "(716) 759-8323",
-    "href": "tel:+17167598323",
-    "aria": "7 1 6, 7 5 9, 8 3 2 3"
+    "number": "(573) 449-7633",
+    "href": "tel:+15734497633",
+    "aria": "5 7 3, 4 4 9, 7 6 3 3"
   },
   "location": [
     {
-      "title": "Clarence Office",
+      "title": "Columbia Office",
       "address": {
-        "street": "9650 Main Street",
-        "suite": "",
-        "city_state": "Clarence, NY 14031",
+        "street": "2301 Chapel Plaza Ct",
+        "suite": "Suite 101",
+        "city_state": "Columbia, MO 65203",
         "coordinates": {
-          "longitude": "-78.6314355",
-          "latitude": "42.9736638"
+          "longitude": "",
+          "latitude": ""
         }
       },
       "phone": {
-        "number": "(716) 759-8323",
-        "href": "tel:+17167598323"
+        "number": "(573) 449-7633",
+        "href": "tel:+15734497633"
       },
-      "email": "info@mandtortho.com",
+      "email": "info@advanceortho.com",
       "hours": [
         {
-          "day": "Monday",
-          "time": "8:30 am \t6:30 pm"
+          "day": "Mon - Thu",
+          "time": "8:00am \u000211:00am - 5:00pm"
         },
         {
-          "day": "Tuesday",
-          "time": "8:30 am \t6:30 pm"
-        },
-        {
-          "day": "Wednesday",
-          "time": "8:00 am \t11:30 am"
-        },
-        {
-          "day": "Thursday",
-          "time": "8:00 am \t6:00 pm"
-        },
-        {
-          "day": "Friday",
-          "time": "8:00 am \t11:30 am"
+          "day": "Summer Hours (Mon - Thu)",
+          "time": "8:00am - 4:30pm"
         }
       ],
       "directions_link": {
-        "href": "https://www.google.com/maps/search/?api=1&query=9650+Main+St+Clarence+NY+14031",
+        "href": "https://www.google.com/maps/search/?api=1&query=2301+Chapel+Plaza+Ct+Suite+101+Columbia+MO+65203",
         "label": "Get Directions"
       },
-      "special_note": ""
+      "special_note": "Columbia office is our primary location for scheduling and most patient visits."
     },
     {
-      "title": "Tonawanda Office",
+      "title": "Kirksville Office",
       "address": {
-        "street": "1077 Delaware Rd",
+        "street": "1916 N. Baltimore St.",
         "suite": "",
-        "city_state": "Tonawanda, NY 14223",
+        "city_state": "Kirksville, MO 63501",
         "coordinates": {
-          "longitude": "-78.8730228",
-          "latitude": "42.9901241"
+          "longitude": "-92.5813311",
+          "latitude": "40.2114772"
         }
       },
       "phone": {
-        "number": "(716) 875-0405",
-        "href": "tel:+17168750405"
+        "number": "(573) 449-7633",
+        "href": "tel:+15734497633"
       },
-      "email": "info@mandtortho.com",
-      "hours": [],
+      "email": "info@advanceortho.com",
+      "hours": [
+        {
+          "day": "Hours",
+          "time": "Variable - please call to confirm"
+        }
+      ],
       "directions_link": {
-        "href": "https://www.google.com/maps/search/?api=1&query=1077+Delaware+Rd+Tonawanda+NY+14223",
+        "href": "https://www.google.com/maps/search/?api=1&query=1916+N.+Baltimore+St.+Kirksville+MO+63501",
         "label": "Get Directions"
       },
-      "special_note": ""
+      "special_note": "Kirksville hours vary; please call (573) 449-7633 to confirm availability."
     }
   ],
   "typography": [
@@ -92,30 +85,15 @@
     "type": "links",
     "theme": "dark",
     "content_alignment": "right",
-    "links": [
-      {
-        "icon": "tooth-two-v1",
-        "text": "9650 Main Street, Clarence, NY 14031",
-        "href": "https://www.google.com/maps/search/?api=1&query=9650+Main+St+Clarence+NY+14031",
-        "label": "View 9650 Main Street, Clarence, NY 14031 on google maps",
-        "new_window": true
-      },
-      {
-        "icon": "phone",
-        "text": "(716) 759-8323",
-        "href": "tel:+17167598323",
-        "label": "Call 7 1 6. 7 5 9. 8 3 2 3.",
-        "new_window": false
-      }
-    ],
+    "links": [],
     "announcement": {
       "icon": "tooth-two-v2",
-      "label": "",
-      "text": "",
-      "mobile_text": "",
+      "label": "Practice update",
+      "text": "Advance Orthodontics - call (573) 449-7633 for scheduling and urgent needs.",
+      "mobile_text": "Call (573) 449-7633",
       "modal": {
-        "title": "",
-        "text": ""
+        "title": "Advance Orthodontics",
+        "text": "We prioritize comfortable, efficient orthodontic care for families and adults. Call (573) 449-7633 to schedule a free consultation."
       }
     }
   },
@@ -129,8 +107,8 @@
           "label": "Schedule Consultation",
           "aria_label": "Schedule a consultation",
           "href": "",
-          "path": "/contact",
-          "hash": "#form",
+          "path": "/schedule-a-free-consult",
+          "hash": "",
           "external": false,
           "include_icon": true,
           "icon": "tooth-two-v2",
@@ -150,7 +128,19 @@
   "footer": {
     "social_media": [
       {
-        "href": "https://www.youtube.com/channel/UC1pgQhnbNQ7Mf0xFm_2KF-g",
+        "href": "https://www.facebook.com/Advance-Orthodontics-273339968300/",
+        "icon": "facebook"
+      },
+      {
+        "href": "https://www.instagram.com/advanceorthodontics/",
+        "icon": "instagram"
+      },
+      {
+        "href": "https://twitter.com/Advance_Ortho",
+        "icon": "twitter"
+      },
+      {
+        "href": "https://www.youtube.com/watch?v=DFy4aGcoxPw",
         "icon": "youtube"
       }
     ],
@@ -158,12 +148,12 @@
   },
   "enable_popup": false,
   "popup": {
-    "title": "",
-    "text": "",
+    "title": "Welcome to Advance Orthodontics",
+    "text": "We provide comfortable, modern orthodontic care for families and adults. Schedule a free consult or call (573) 449-7633.",
     "image": {
-      "src": "",
+      "src": "https://advanceortho.com/wp-content/uploads/2016/06/advance_rev_logo1.png",
       "webp": "",
-      "alt": "",
+      "alt": "Advance Orthodontics logo",
       "aria_hidden": false,
       "bgColor": "",
       "imageBackground": false,
@@ -171,7 +161,9 @@
       "objectPosition": "",
       "forceAlt": "",
       "loading_mask": "",
-      "image_selection_hints": null
+      "image_selection_hints": {
+        "context_category": "Contact Hero"
+      }
     }
   }
 }
